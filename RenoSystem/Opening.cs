@@ -106,13 +106,7 @@ namespace RenoSystem
         //Auto-implemented property
         public OpeningType Type { get; set; }
 
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="width"></param>
-        /// <param name="height"></param>
-        /// <param name="type"></param>
-        /// <param name="edging"></param>
+        //Greedy Constructor
         public Opening(int width, int height, OpeningType type, int edging = 0)
         {
 
@@ -121,6 +115,16 @@ namespace RenoSystem
             Type = type;
             Edging = edging;
         }
+
+        //Default Constuctor
+        public Opening()
+        {
+            _Height = _HEIGHT;
+            _Width = _WIDTH;
+            _Edging = _EDGING;
+            Type = OpeningType.Window;
+        }
+
 
         //Methods
 
