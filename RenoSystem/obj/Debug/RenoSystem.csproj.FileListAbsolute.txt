@@ -1,0 +1,9 @@
+C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\RenoSystem\bin\Debug\RenoSystem.dll
+C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\RenoSystem\bin\Debug\RenoSystem.pdb
+C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\RenoSystem\bin\Debug\Utilities.dll
+C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\RenoSystem\bin\Debug\Utilities.pdb
+C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\RenoSystem\obj\Debug\RenoSystem.csproj.AssemblyReference.cache
+C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\RenoSystem\obj\Debug\RenoSystem.csproj.CoreCompileInputs.cache
+C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\RenoSystem\obj\Debug\RenoSystem.csproj.CopyComplete
+C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\RenoSystem\obj\Debug\RenoSystem.dll
+C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\RenoSystem\obj\Debug\RenoSystem.pdb
