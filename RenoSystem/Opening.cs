@@ -116,15 +116,7 @@ namespace RenoSystem
             Edging = edging;
         }
 
-        //Default Constuctor
-        public Opening()
-        {
-            _Height = _HEIGHT;
-            _Width = _WIDTH;
-            _Edging = _EDGING;
-            Type = OpeningType.Window;
-        }
-
+     
 
         //Methods
 
