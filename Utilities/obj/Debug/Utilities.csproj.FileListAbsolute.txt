@@ -1,6 +1,0 @@
-C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\Utilities\bin\Debug\Utilities.dll
-C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\Utilities\bin\Debug\Utilities.pdb
-C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
-C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
-C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\Utilities\obj\Debug\Utilities.dll
-C:\Users\barre\OneDrive\Documents\Personal Manuel\DMIT - NAIT\CPSC1517 - Introduction to App Develop\Practice\Exercise1\Utilities\obj\Debug\Utilities.pdb
